@@ -1,0 +1,16 @@
+{
+  "name": "Quote Generator - Afan K.",
+  "version": "1.0.0",
+  "description": "An Inspiration Quotes Generator",
+  "author": "Afan Khan",
+
+  "manifest_version": 3,
+  "action": {
+    "default_popup": "index.html",
+    "default_title": "Quote Generator - Afan K."
+  },
+
+  "icons": {
+    "16": "favicon.png"
+  }
+}
