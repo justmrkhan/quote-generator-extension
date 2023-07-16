@@ -4,7 +4,7 @@ It is a simple browser extension that generates inspirational quotes for you ran
 
 1. Download the entire code folder to your machine.
 
-   !["Step 1 - Afan Khan" width = "200px"](https://github.com/justmrkhan/quote-generator-extension/assets/70063819/713a1290-9f6e-4cbb-b3e3-8826958763c8)
+   ![Step 1 - Afan Khan](https://github.com/justmrkhan/quote-generator-extension/assets/70063819/713a1290-9f6e-4cbb-b3e3-8826958763c8)
 
 2. Unzip it and extract the nested folder separately.
 
