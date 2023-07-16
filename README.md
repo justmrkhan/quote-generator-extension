@@ -22,4 +22,4 @@ It is a simple browser extension that generates inspirational quotes for you ran
 
    ![Step 5 - Afan Khan](https://github.com/justmrkhan/quote-generator-extension/assets/70063819/2a56a7a1-1f2b-44e4-8218-8ae5c530ac62)
 
-> 2023 Afan Khan Group.
+> 2023 Afan Khan Group by [Afan Khan](https://afankhan.com).
