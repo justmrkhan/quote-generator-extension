@@ -1,4 +1,4 @@
-# Quote-generator-extention
+# Quote Generator Extension
 
 It is a simple browser extension that generates inspirational quotes for you randomly. Refer to the procedure below to activate it on your desired browser.
 
